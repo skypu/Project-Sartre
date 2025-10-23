@@ -1,0 +1,12 @@
+{
+  "defaultModel": "llama2",
+  "defaultUrl": "https://example.com",
+  "headless": false,
+  "browserOptions": {
+    "args": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
+    ]
+  },
+  "ollamaHost": "http://localhost:11434"
+}
